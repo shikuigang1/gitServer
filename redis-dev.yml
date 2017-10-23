@@ -1,0 +1,5 @@
+redis:
+      cluster:
+           nodes: 192.168.1.79:6379
+           timeout: 3000
+           maxAttempts: 5
